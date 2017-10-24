@@ -1,0 +1,8 @@
+.slideshow {
+  width: 60vw;
+  height: 30vh;
+  border: 5px dotted black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

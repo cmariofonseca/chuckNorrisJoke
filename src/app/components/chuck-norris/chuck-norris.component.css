@@ -1,0 +1,11 @@
+.chuck-norris {
+  width: 70vw;
+  height: 60vh;
+  background-image: url(../../../assets/imgChuckNorris.jpg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+

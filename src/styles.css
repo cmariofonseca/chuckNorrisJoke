@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body * {
+  font-family: "Comfortaa", Arial, Sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
